@@ -30,7 +30,7 @@ correctAnswer: 2
 {
 question: "Question: What are variables used for in JavaScript Programs?",
 imageSrc: "",
-answerChoice: ["A) Storing numbers, dates, or other values", "B) Varying randomly", "D) Causing high-school algebra flashbacks", "D) None of the above"],
+answerChoice: ["A) Storing numbers, dates, or other values", "B) Varying randomly", "D) Causing high-school algebra flashbacks", "D) All of the above"],
 correctAnswer: 0
 },
 {
