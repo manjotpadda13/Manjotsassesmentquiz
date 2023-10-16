@@ -46,6 +46,15 @@ An animation is below which demonstrates the final application functionality:
 
 https://github.com/manjotpadda13/Manjotsassesmentquiz/assets/79305241/cbcd3299-a215-4341-bef4-88e24a730446
 
+## Description 
+The user is taking a code quiz,
+
+When I click the start button, then a timer starts and I am presented with a question
+When I answer a question: then I am presented with another question
+When I answer a question incorrectly, then time is subtracted from the clock
+When all questions are answered or the timer reaches 0, then the game is over
+When the game is over, then I may save my initials and score
+
 
 
 ## Deployed Link
