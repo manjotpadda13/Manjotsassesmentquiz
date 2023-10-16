@@ -58,4 +58,5 @@ When the game is over, then I may save my initials and score
 
 
 ## Deployed Link
+https://manjotpadda13.github.io/Manjotsassesmentquiz/
 
